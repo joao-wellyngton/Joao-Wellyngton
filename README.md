@@ -2,125 +2,217 @@
 
 # João Wellyngton
 
-### Analista de Dados em Formação
+### Data Analyst | Business Intelligence | Data & Analytics
 
-Transformando dados em insights para apoiar decisões estratégicas.
+**Transformando dados em insights, indicadores e decisões orientadas por dados.**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=SQL+%7C+Power+BI+%7C+Excel+%7C+Python;Business+Intelligence+%26+Analytics;Data-Driven+Decision+Making;Sempre+Aprendendo+e+Construindo+Projetos"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Data+Analytics+%7C+Business+Intelligence;Dashboards+%7C+KPIs+%7C+ETL;Transformando+dados+em+decis%C3%B5es"/>
 
 <br>
 
 <a href="https://www.linkedin.com/in/joaowellyngton-dados/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://joao-wellyngton-data.netlify.app">
-<img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel"/>
+  <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
 <a href="mailto:joaowellington598@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# Sobre Mim
+## 👋 Sobre mim
 
-Sou estudante de **Ciência de Dados pela UNINTER**, apaixonado por transformar dados em informações relevantes para apoiar decisões de negócio.
+Sou estudante de **Ciência de Dados na UNINTER** e venho construindo minha trajetória na área de **Dados e Business Intelligence**, com foco em transformar dados brutos em informações claras e úteis para tomada de decisão.
 
-Atualmente desenvolvo projetos voltados para:
+Tenho interesse especialmente em **Análise de Dados, BI, visualização, indicadores e automação**, buscando desenvolver projetos que simulem problemas reais de negócio.
 
-- Análise de Dados
-- Business Intelligence
-- Dashboards Executivos
-- KPIs e Indicadores
-- Visualização de Dados
-- Automação de Processos
-- Analytics Engineering
+### 🔎 O que venho desenvolvendo
 
-Meu objetivo é atuar como **Analista de Dados**, contribuindo para decisões mais inteligentes através da análise e interpretação de dados.
+* 📊 Dashboards e relatórios gerenciais
+* 🎯 KPIs e indicadores de desempenho
+* 🧮 Análise exploratória e estatística
+* 🐍 Manipulação e análise de dados com Python
+* 🗄️ Consultas e transformação de dados com SQL
+* 🔄 Processos de ETL e preparação de dados
+* 🤖 Aplicações de IA em Analytics
+* 📈 Storytelling e visualização de dados
+
+> **Objetivo:** atuar como **Analista de Dados / BI**, utilizando dados para identificar padrões, gerar insights e apoiar decisões de negócio.
 
 ---
 
-# Stack Tecnológica
+# 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
-### Dados & BI
+### 📊 Data & Analytics
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=python"/>  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<br><br>
-
-### Desenvolvimento
+### 💻 Desenvolvimento
 
 <img src="https://skillicons.dev/icons?i=javascript,react,git,github,vscode"/>
 
+### 🗄️ Dados & Visualização
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>  <img src="https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge"/>  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"/>
+
 </div>
 
 ---
 
-# Projetos em Destaque
+# 🚀 Projetos
 
-## DSBI — Data & Business Intelligence
+## 📊 DSBI — Data & Business Intelligence
 
-Sistema de Business Intelligence desenvolvido para análise de dados e geração de insights estratégicos.
+> Plataforma de Business Intelligence desenvolvida para exploração, análise e visualização de dados.
 
-### Principais Recursos
+O projeto reúne recursos voltados para transformar dados em informações estratégicas através de dashboards e indicadores interativos.
 
-- Dashboards Interativos
-- KPIs Dinâmicos
-- Relatórios Gerenciais
-- Previsões Baseadas em Tendências
-- Integração com IA
-- Visualização Avançada de Dados
+### Principais funcionalidades
 
-**Tecnologias**
+* 📈 Dashboards interativos
+* 🎯 KPIs e indicadores
+* 📋 Relatórios gerenciais
+* 📊 Visualizações dinâmicas
+* 🔮 Análises baseadas em tendências
+* 🤖 Integração com Inteligência Artificial
 
-React • Express • SQLite • Recharts • D3 • Gemini AI
-
----
-
-## Dashboard CPGF
-
-Análise de gastos públicos com foco em transparência e visualização de dados.
-
-### Resultados
-
-- R$ 67 milhões analisados
-- +122 mil transações processadas
-- Ticket médio calculado
-- Indicadores estratégicos
-- Tendências de gastos
+**Stack:** `React` `Express` `SQLite` `Recharts` `D3.js` `Gemini AI`
 
 ---
 
-## Análises com Python
+## 💰 Dashboard CPGF
 
-Projetos focados em:
+> Análise de dados de gastos públicos com foco em transparência, exploração de dados e identificação de padrões.
 
-- ETL
-- Limpeza de Dados
-- Análise Exploratória
-- Estatística Aplicada
-- Visualização de Dados
-- Automação de Relatórios
+### 📌 Dados analisados
+
+| Indicador          |                Resultado |
+| ------------------ | -----------------------: |
+| 💰 Valor analisado |        **R$ 67 milhões** |
+| 📑 Transações      |             **+122 mil** |
+| 📊 Ticket médio    | **Calculado no projeto** |
+| 📈 Indicadores     | **Dashboard interativo** |
+
+### O projeto aborda
+
+* Tratamento e organização dos dados
+* Análise de gastos
+* Construção de indicadores
+* Identificação de tendências
+* Visualização de informações
+* Exploração de dados públicos
 
 ---
 
-# Estatísticas GitHub
+## 🐍 Análises com Python
+
+Projetos desenvolvidos para praticar e aplicar conceitos de análise de dados.
+
+### Principais etapas
+
+`ETL` → `Limpeza` → `Exploração` → `Análise` → `Visualização` → `Insights`
+
+Incluindo:
+
+* Pandas
+* NumPy
+* Matplotlib
+* Análise exploratória
+* Tratamento de dados
+* Estatística aplicada
+* Automação de análises e relatórios
+
+---
+
+# 📈 Minha abordagem para Dados
+
+```text
+           DADOS BRUTOS
+                │
+                ▼
+        ┌───────────────┐
+        │    ETL /      │
+        │  TRATAMENTO   │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │    ANÁLISE    │
+        │  EXPLORATÓRIA │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │     KPIs &    │
+        │   MÉTRICAS    │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │  DASHBOARDS & │
+        │ VISUALIZAÇÃO  │
+        └───────┬───────┘
+                │
+                ▼
+             INSIGHTS
+                │
+                ▼
+        DECISÕES DATA-DRIVEN
+```
+
+---
+
+# 📚 Atualmente estudando
+
+Estou aprofundando meus conhecimentos em:
+
+* 🗄️ SQL Avançado
+* 📊 Power BI
+* 🐍 Python para Dados
+* 🧩 Modelagem de Dados
+* 🔄 Analytics Engineering
+* ☁️ Microsoft Fabric
+* 🏗️ Engenharia de Dados
+* 🤖 Inteligência Artificial aplicada a Analytics
+
+---
+
+# 🎓 Certificações & Formação
+
+### 🎓 Formação
+
+**Ciência de Dados — UNINTER**
+`Em andamento`
+
+### 📜 Certificações
+
+* Power BI — EmpowerData
+* IA na Prática — Daxus
+* Full Stack — Hashtag Programação
+
+---
+
+# 🎯 Objetivo profissional
+
+Busco oportunidades para iniciar ou desenvolver minha carreira na área de **Dados e Business Intelligence**, especialmente em posições como:
+
+**Data Analyst • BI Analyst • Estágio em Dados • Analytics**
+
+Tenho interesse em ambientes onde possa trabalhar com **SQL, Python, Power BI, indicadores e análise de dados**, enquanto continuo evoluindo tecnicamente e aprendendo sobre problemas reais de negócio.
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-wellyngton&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-wellyngton&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-wellyngton&layout=compact&theme=github_dark&hide_border=true"/>
 
@@ -136,57 +228,32 @@ Projetos focados em:
 
 ---
 
-# Roadmap de Aprendizado
-
-Atualmente aprofundando conhecimentos em:
-
-- SQL Avançado
-- Power BI
-- Python para Dados
-- Modelagem de Dados
-- Analytics Engineering
-- Microsoft Fabric
-- Engenharia de Dados
-- Inteligência Artificial aplicada a Analytics
-
----
-
-# Certificações
-
-- Power BI — EmpowerData
-- IA na Prática — Daxus
-- Full Stack — Hashtag Programação
-
----
-
-# Objetivo Profissional
-
-Busco oportunidades como:
-
-- Analista de Dados Júnior
-- Analista de BI Júnior
-- Estágio em Dados
-- Analytics Engineer (Iniciante)
-
-Meu foco é transformar dados em decisões através de análises, dashboards e indicadores que gerem impacto real para empresas.
-
----
+# 🌐 Onde me encontrar
 
 <div align="center">
 
-## Vamos nos conectar?
+### 💼 LinkedIn
 
-💼 LinkedIn  
-www.linkedin.com/in/joaowellyngton-dados
+<a href="https://www.linkedin.com/in/joaowellyngton-dados/">
+linkedin.com/in/joaowellyngton-dados
+</a>
 
-🌐 Portfólio  
+### 🌐 Portfólio
+
+<a href="https://joao-wellyngton-data.netlify.app">
 joao-wellyngton-data.netlify.app
+</a>
 
-📧 Contato  
+### 📧 Email
+
+<a href="mailto:joaowellington598@gmail.com">
 joaowellington598@gmail.com
+</a>
 
-<br>
+<br><br>
 
-⭐ Obrigado por visitar meu perfil!
+**Obrigado por visitar meu perfil!**
+
+⭐ Se algum projeto for útil para você, considere deixar uma estrela.
 
 </div>
