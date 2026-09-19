@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="João Wellyngton — Data Analyst | Business Intelligence" width="100%"/>
+<img src="./banner.svg" alt="João Wellyngton — Data Analyst | Business Intelligence" width="100%"/>
 
 <br/>
 
